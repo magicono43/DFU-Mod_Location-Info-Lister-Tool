@@ -1,0 +1,12 @@
+{
+    "ModTitle": "LocationInfoListerTool",
+    "ModVersion": "1.00",
+    "ModAuthor": "Kirk.O",
+    "ContactInfo": "kirkoliveri@gmail.com",
+    "DFUnity_Version": "1.0.0",
+    "ModDescription": "Simple Script/Tool For Listing Various Location Data In A Text Document",
+    "GUID": "52b91bac-5761-4bf4-a065-8ee0ef79aeb4",
+    "Files": [
+        "Assets/Game/Mods/DFU-Mod_Location-Info-Lister-Tool/Scripts/LocationInfoListerMain.cs"
+    ]
+}

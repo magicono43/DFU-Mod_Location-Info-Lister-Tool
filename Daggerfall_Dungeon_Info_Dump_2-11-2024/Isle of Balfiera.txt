@@ -1,0 +1,747 @@
+Region: Isle of Balfiera
+
+Dungeon: Greensly Hall
+Type: Ruined Castle
+Total Size: 12
+B0000011.RDB,   X:-1, Z:0
+B0000007.RDB,   X:0, Z:-1
+N0000013.RDB,   X:0, Z:0
+B0000000.RDB,   X:0, Z:1
+B0000006.RDB,   X:1, Z:-1
+N0000036.RDB,   X:1, Z:0
+W0000026.RDB,   X:1, Z:1
+B0000013.RDB,   X:1, Z:2
+B0000012.RDB,   X:2, Z:-1
+W0000020.RDB,   X:2, Z:0
+B0000011.RDB,   X:2, Z:1
+B0000000.RDB,   X:3, Z:0
+
+Dungeon: The Cathedral of Jubith
+Type: Desecrated Temple
+Total Size: 8
+B0000004.RDB,   X:-1, Z:-1
+B0000001.RDB,   X:-1, Z:0
+B0000008.RDB,   X:0, Z:-2
+N0000091.RDB,   X:0, Z:-1
+N0000089.RDB,   X:0, Z:0
+B0000013.RDB,   X:0, Z:1
+B0000005.RDB,   X:1, Z:-1
+B0000011.RDB,   X:1, Z:0
+
+Dungeon: Ruins of Old Belladyn's Place
+Type: Crypt
+Total Size: 8
+B0000009.RDB,   X:-2, Z:0
+B0000005.RDB,   X:-1, Z:-1
+W0000014.RDB,   X:-1, Z:0
+B0000011.RDB,   X:-1, Z:1
+B0000009.RDB,   X:0, Z:-1
+N0000016.RDB,   X:0, Z:0
+B0000003.RDB,   X:0, Z:1
+B0000000.RDB,   X:1, Z:0
+
+Dungeon: The Tombs of Masterhart
+Type: Forgotten Cemetery
+Total Size: 5
+B0000002.RDB,   X:-1, Z:0
+B0000007.RDB,   X:0, Z:-1
+M0000005.RDB,   X:0, Z:0
+B0000012.RDB,   X:0, Z:1
+B0000011.RDB,   X:1, Z:0
+
+Dungeon: The Ashston Crypts
+Type: Cemetery
+Total Size: 5
+B0000001.RDB,   X:-1, Z:0
+B0000008.RDB,   X:0, Z:-1
+M0000005.RDB,   X:0, Z:0
+B0000005.RDB,   X:0, Z:1
+B0000013.RDB,   X:1, Z:0
+
+Dungeon: The Masoleum of Darkivaron
+Type: Crypt
+Total Size: 8
+B0000014.RDB,   X:-1, Z:0
+B0000000.RDB,   X:-1, Z:1
+B0000012.RDB,   X:0, Z:-1
+N0000091.RDB,   X:0, Z:0
+N0000057.RDB,   X:0, Z:1
+B0000005.RDB,   X:0, Z:2
+B0000013.RDB,   X:1, Z:0
+B0000010.RDB,   X:1, Z:1
+
+Dungeon: Ruins of The Gaerhart Farmstead
+Type: Ruined Castle
+Total Size: 8
+B0000006.RDB,   X:-1, Z:-1
+B0000010.RDB,   X:-1, Z:0
+B0000002.RDB,   X:0, Z:-2
+W0000003.RDB,   X:0, Z:-1
+W0000000.RDB,   X:0, Z:0
+B0000005.RDB,   X:0, Z:1
+B0000000.RDB,   X:1, Z:-1
+B0000002.RDB,   X:1, Z:0
+
+Dungeon: The Sahulessa Hermitage
+Type: Desecrated Temple
+Total Size: 13
+B0000012.RDB,   X:-1, Z:0
+B0000000.RDB,   X:0, Z:-2
+B0000013.RDB,   X:0, Z:-1
+W0000022.RDB,   X:0, Z:0
+B0000012.RDB,   X:0, Z:1
+B0000011.RDB,   X:1, Z:-3
+W0000018.RDB,   X:1, Z:-2
+W0000021.RDB,   X:1, Z:-1
+W0000012.RDB,   X:1, Z:0
+B0000007.RDB,   X:1, Z:1
+B0000008.RDB,   X:2, Z:-2
+B0000009.RDB,   X:2, Z:-1
+B0000002.RDB,   X:2, Z:0
+
+Dungeon: Ruins of The Old Greenton Shack
+Type: Crypt
+Total Size: 8
+B0000010.RDB,   X:-2, Z:0
+B0000008.RDB,   X:-1, Z:-1
+W0000000.RDB,   X:-1, Z:0
+B0000005.RDB,   X:-1, Z:1
+B0000010.RDB,   X:0, Z:-1
+W0000016.RDB,   X:0, Z:0
+B0000010.RDB,   X:0, Z:1
+B0000003.RDB,   X:1, Z:0
+
+Dungeon: Ruins of Mastersley Grange
+Type: Harpy Nest
+Total Size: 12
+B0000007.RDB,   X:-3, Z:1
+B0000002.RDB,   X:-2, Z:0
+N0000076.RDB,   X:-2, Z:1
+B0000002.RDB,   X:-2, Z:2
+B0000010.RDB,   X:-1, Z:-1
+N0000075.RDB,   X:-1, Z:0
+N0000030.RDB,   X:-1, Z:1
+B0000014.RDB,   X:-1, Z:2
+B0000002.RDB,   X:0, Z:-1
+N0000053.RDB,   X:0, Z:0
+B0000000.RDB,   X:0, Z:1
+B0000009.RDB,   X:1, Z:0
+
+Dungeon: Ruins of The Hold of Greenwing
+Type: Desecrated Temple
+Total Size: 8
+B0000014.RDB,   X:-1, Z:0
+B0000008.RDB,   X:0, Z:-1
+N0000063.RDB,   X:0, Z:0
+B0000002.RDB,   X:0, Z:1
+B0000013.RDB,   X:1, Z:-1
+N0000009.RDB,   X:1, Z:0
+B0000010.RDB,   X:1, Z:1
+B0000000.RDB,   X:2, Z:0
+
+Dungeon: Ruins of Old Evelanna's Hovel
+Type: Harpy Nest
+Total Size: 8
+B0000014.RDB,   X:-1, Z:-1
+B0000009.RDB,   X:-1, Z:0
+B0000005.RDB,   X:0, Z:-2
+N0000060.RDB,   X:0, Z:-1
+W0000011.RDB,   X:0, Z:0
+B0000011.RDB,   X:0, Z:1
+B0000013.RDB,   X:1, Z:-1
+B0000007.RDB,   X:1, Z:0
+
+Dungeon: Ruins of Old Ysyvyra's Hovel
+Type: Harpy Nest
+Total Size: 8
+B0000003.RDB,   X:-1, Z:0
+B0000002.RDB,   X:-1, Z:1
+B0000014.RDB,   X:0, Z:-1
+W0000020.RDB,   X:0, Z:0
+N0000070.RDB,   X:0, Z:1
+B0000002.RDB,   X:0, Z:2
+B0000004.RDB,   X:1, Z:0
+B0000007.RDB,   X:1, Z:1
+
+Dungeon: Ruins of Yeoming Manor
+Type: Coven
+Total Size: 13
+B0000007.RDB,   X:-3, Z:0
+B0000001.RDB,   X:-2, Z:-1
+N0000087.RDB,   X:-2, Z:0
+B0000002.RDB,   X:-2, Z:1
+B0000003.RDB,   X:-1, Z:-1
+W0000007.RDB,   X:-1, Z:0
+B0000005.RDB,   X:-1, Z:1
+B0000013.RDB,   X:0, Z:-1
+N0000063.RDB,   X:0, Z:0
+W0000029.RDB,   X:0, Z:1
+B0000008.RDB,   X:0, Z:2
+B0000002.RDB,   X:1, Z:0
+B0000013.RDB,   X:1, Z:1
+
+Dungeon: Ruins of Old Barbara's Place
+Type: Crypt
+Total Size: 12
+B0000013.RDB,   X:-2, Z:1
+B0000013.RDB,   X:-1, Z:0
+W0000007.RDB,   X:-1, Z:1
+B0000001.RDB,   X:-1, Z:2
+B0000002.RDB,   X:0, Z:-1
+W0000011.RDB,   X:0, Z:0
+W0000015.RDB,   X:0, Z:1
+B0000010.RDB,   X:0, Z:2
+B0000002.RDB,   X:1, Z:-1
+N0000079.RDB,   X:1, Z:0
+B0000005.RDB,   X:1, Z:1
+B0000001.RDB,   X:2, Z:0
+
+Dungeon: The Yeomhart Graveyard
+Type: Forgotten Cemetery
+Total Size: 5
+B0000007.RDB,   X:-1, Z:0
+B0000002.RDB,   X:0, Z:-1
+M0000006.RDB,   X:0, Z:0
+B0000012.RDB,   X:0, Z:1
+B0000013.RDB,   X:1, Z:0
+
+Dungeon: The House of Baroman
+Type: Vampire Haunt
+Total Size: 14
+B0000013.RDB,   X:-1, Z:0
+B0000002.RDB,   X:-1, Z:1
+B0000010.RDB,   X:-1, Z:2
+B0000005.RDB,   X:-1, Z:3
+B0000000.RDB,   X:0, Z:-1
+N0000072.RDB,   X:0, Z:0
+W0000018.RDB,   X:0, Z:1
+W0000018.RDB,   X:0, Z:2
+N0000044.RDB,   X:0, Z:3
+B0000014.RDB,   X:0, Z:4
+B0000007.RDB,   X:1, Z:0
+B0000001.RDB,   X:1, Z:1
+B0000013.RDB,   X:1, Z:2
+B0000003.RDB,   X:1, Z:3
+
+Dungeon: The Cairn of Vladelulon
+Type: Crypt
+Total Size: 13
+B0000014.RDB,   X:-1, Z:0
+B0000007.RDB,   X:0, Z:-1
+N0000057.RDB,   X:0, Z:0
+B0000005.RDB,   X:0, Z:1
+B0000010.RDB,   X:0, Z:2
+B0000010.RDB,   X:1, Z:-1
+N0000063.RDB,   X:1, Z:0
+N0000008.RDB,   X:1, Z:1
+N0000084.RDB,   X:1, Z:2
+B0000013.RDB,   X:1, Z:3
+B0000008.RDB,   X:2, Z:0
+B0000012.RDB,   X:2, Z:1
+B0000003.RDB,   X:2, Z:2
+
+Dungeon: The Moorford Graveyard
+Type: Forgotten Cemetery
+Total Size: 5
+B0000004.RDB,   X:-1, Z:0
+B0000012.RDB,   X:0, Z:-1
+M0000008.RDB,   X:0, Z:0
+B0000006.RDB,   X:0, Z:1
+B0000011.RDB,   X:1, Z:0
+
+Dungeon: The Moorton Cemetery
+Type: Forgotten Cemetery
+Total Size: 5
+B0000003.RDB,   X:-1, Z:0
+B0000012.RDB,   X:0, Z:-1
+M0000005.RDB,   X:0, Z:0
+B0000006.RDB,   X:0, Z:1
+B0000003.RDB,   X:1, Z:0
+
+Dungeon: The Hawksley Graveyard
+Type: Forgotten Cemetery
+Total Size: 5
+B0000013.RDB,   X:-1, Z:0
+B0000003.RDB,   X:0, Z:-1
+M0000006.RDB,   X:0, Z:0
+B0000004.RDB,   X:0, Z:1
+B0000003.RDB,   X:1, Z:0
+
+Dungeon: Ruins of The Greening Cabin
+Type: Natural Cave
+Total Size: 8
+B0000011.RDB,   X:-1, Z:-1
+B0000013.RDB,   X:-1, Z:0
+B0000004.RDB,   X:0, Z:-2
+N0000023.RDB,   X:0, Z:-1
+W0000021.RDB,   X:0, Z:0
+B0000007.RDB,   X:0, Z:1
+B0000013.RDB,   X:1, Z:-1
+B0000001.RDB,   X:1, Z:0
+
+Dungeon: Ruins of Old Lysayne's Hovel
+Type: Harpy Nest
+Total Size: 8
+B0000008.RDB,   X:-1, Z:0
+B0000006.RDB,   X:-1, Z:1
+B0000005.RDB,   X:0, Z:-1
+N0000078.RDB,   X:0, Z:0
+W0000026.RDB,   X:0, Z:1
+B0000011.RDB,   X:0, Z:2
+B0000000.RDB,   X:1, Z:0
+B0000012.RDB,   X:1, Z:1
+
+Dungeon: The Shrine of Maelodeusa
+Type: Desecrated Temple
+Total Size: 12
+B0000006.RDB,   X:-2, Z:-1
+B0000002.RDB,   X:-2, Z:0
+B0000013.RDB,   X:-1, Z:-2
+N0000005.RDB,   X:-1, Z:-1
+W0000020.RDB,   X:-1, Z:0
+B0000013.RDB,   X:-1, Z:1
+B0000010.RDB,   X:0, Z:-2
+N0000029.RDB,   X:0, Z:-1
+N0000022.RDB,   X:0, Z:0
+B0000008.RDB,   X:0, Z:1
+B0000014.RDB,   X:1, Z:-1
+B0000003.RDB,   X:1, Z:0
+
+Dungeon: Ruins of Masterford's Guard
+Type: Crypt
+Total Size: 8
+B0000014.RDB,   X:-1, Z:-1
+B0000001.RDB,   X:-1, Z:0
+B0000009.RDB,   X:0, Z:-2
+N0000023.RDB,   X:0, Z:-1
+W0000005.RDB,   X:0, Z:0
+B0000009.RDB,   X:0, Z:1
+B0000013.RDB,   X:1, Z:-1
+B0000000.RDB,   X:1, Z:0
+
+Dungeon: Ruins of Yeomwing Palace
+Type: Harpy Nest
+Total Size: 13
+B0000013.RDB,   X:-2, Z:0
+B0000007.RDB,   X:-1, Z:-1
+N0000035.RDB,   X:-1, Z:0
+B0000012.RDB,   X:-1, Z:1
+B0000003.RDB,   X:-1, Z:2
+B0000004.RDB,   X:0, Z:-1
+N0000047.RDB,   X:0, Z:0
+N0000081.RDB,   X:0, Z:1
+N0000039.RDB,   X:0, Z:2
+B0000005.RDB,   X:0, Z:3
+B0000006.RDB,   X:1, Z:0
+B0000008.RDB,   X:1, Z:1
+B0000013.RDB,   X:1, Z:2
+
+Dungeon: Ruins of Old Vannyrrya's Farm
+Type: Vampire Haunt
+Total Size: 8
+B0000001.RDB,   X:-1, Z:-1
+B0000012.RDB,   X:-1, Z:0
+B0000014.RDB,   X:0, Z:-2
+N0000080.RDB,   X:0, Z:-1
+N0000053.RDB,   X:0, Z:0
+B0000002.RDB,   X:0, Z:1
+B0000003.RDB,   X:1, Z:-1
+B0000004.RDB,   X:1, Z:0
+
+Dungeon: Ruins of The Old Yeoming Hovel
+Type: Ruined Castle
+Total Size: 10
+B0000005.RDB,   X:-1, Z:0
+B0000006.RDB,   X:0, Z:-1
+N0000063.RDB,   X:0, Z:0
+B0000006.RDB,   X:0, Z:1
+B0000004.RDB,   X:1, Z:-2
+N0000087.RDB,   X:1, Z:-1
+N0000035.RDB,   X:1, Z:0
+B0000010.RDB,   X:1, Z:1
+B0000002.RDB,   X:2, Z:-1
+B0000000.RDB,   X:2, Z:0
+
+Dungeon: Direnni Tower
+Type: Vampire Haunt
+Total Size: 16
+S0000181.RDB,   X:0, Z:0
+S0000180.RDB,   X:-2, Z:-1
+N0000012.RDB,   X:0, Z:-1
+W0000003.RDB,   X:-1, Z:-1
+W0000004.RDB,   X:-1, Z:0
+N0000020.RDB,   X:0, Z:1
+B0000004.RDB,   X:-3, Z:-1
+B0000005.RDB,   X:-2, Z:0
+B0000006.RDB,   X:-1, Z:1
+B0000007.RDB,   X:0, Z:2
+B0000008.RDB,   X:1, Z:1
+B0000009.RDB,   X:1, Z:0
+B0000010.RDB,   X:1, Z:-1
+B0000011.RDB,   X:0, Z:-2
+B0000012.RDB,   X:-1, Z:-2
+B0000013.RDB,   X:-2, Z:-2
+
+Dungeon: Ruins of Gaerham Hall
+Type: Ruined Castle
+Total Size: 8
+B0000004.RDB,   X:-2, Z:0
+B0000000.RDB,   X:-1, Z:-1
+W0000001.RDB,   X:-1, Z:0
+B0000013.RDB,   X:-1, Z:1
+B0000005.RDB,   X:0, Z:-1
+W0000012.RDB,   X:0, Z:0
+B0000000.RDB,   X:0, Z:1
+B0000003.RDB,   X:1, Z:0
+
+Dungeon: Ruins of Old Carolanna's Shack
+Type: Desecrated Temple
+Total Size: 11
+B0000009.RDB,   X:-1, Z:0
+B0000000.RDB,   X:0, Z:-1
+W0000008.RDB,   X:0, Z:0
+B0000010.RDB,   X:0, Z:1
+B0000011.RDB,   X:1, Z:-1
+N0000075.RDB,   X:1, Z:0
+B0000009.RDB,   X:1, Z:1
+B0000012.RDB,   X:2, Z:-1
+N0000041.RDB,   X:2, Z:0
+B0000006.RDB,   X:2, Z:1
+B0000007.RDB,   X:3, Z:0
+
+Dungeon: Ruins of The Yeomham Farmstead
+Type: Volcanic Caves
+Total Size: 8
+B0000010.RDB,   X:-2, Z:0
+B0000003.RDB,   X:-1, Z:-1
+N0000060.RDB,   X:-1, Z:0
+B0000009.RDB,   X:-1, Z:1
+B0000002.RDB,   X:0, Z:-1
+N0000005.RDB,   X:0, Z:0
+B0000013.RDB,   X:0, Z:1
+B0000000.RDB,   X:1, Z:0
+
+Dungeon: The Gerateusulla Hole
+Type: Volcanic Caves
+Total Size: 11
+B0000014.RDB,   X:-1, Z:0
+B0000004.RDB,   X:0, Z:-1
+W0000012.RDB,   X:0, Z:0
+B0000001.RDB,   X:0, Z:1
+B0000009.RDB,   X:1, Z:-1
+N0000090.RDB,   X:1, Z:0
+B0000002.RDB,   X:1, Z:1
+B0000003.RDB,   X:2, Z:-1
+N0000057.RDB,   X:2, Z:0
+B0000003.RDB,   X:2, Z:1
+B0000001.RDB,   X:3, Z:0
+
+Dungeon: Ruins of Hearthcroft Tower
+Type: Desecrated Temple
+Total Size: 13
+B0000008.RDB,   X:-2, Z:-2
+B0000000.RDB,   X:-1, Z:-3
+N0000041.RDB,   X:-1, Z:-2
+B0000013.RDB,   X:-1, Z:-1
+B0000008.RDB,   X:-1, Z:0
+B0000012.RDB,   X:0, Z:-3
+N0000073.RDB,   X:0, Z:-2
+N0000004.RDB,   X:0, Z:-1
+N0000004.RDB,   X:0, Z:0
+B0000000.RDB,   X:0, Z:1
+B0000000.RDB,   X:1, Z:-2
+B0000014.RDB,   X:1, Z:-1
+B0000010.RDB,   X:1, Z:0
+
+Dungeon: Ruins of The Hold of Coppering
+Type: Crypt
+Total Size: 13
+B0000008.RDB,   X:-1, Z:0
+B0000001.RDB,   X:0, Z:-2
+B0000011.RDB,   X:0, Z:-1
+N0000012.RDB,   X:0, Z:0
+B0000010.RDB,   X:0, Z:1
+B0000000.RDB,   X:1, Z:-3
+N0000040.RDB,   X:1, Z:-2
+N0000059.RDB,   X:1, Z:-1
+N0000008.RDB,   X:1, Z:0
+B0000010.RDB,   X:1, Z:1
+B0000008.RDB,   X:2, Z:-2
+B0000009.RDB,   X:2, Z:-1
+B0000013.RDB,   X:2, Z:0
+
+Dungeon: Ruins of Greenhouse Manor
+Type: Harpy Nest
+Total Size: 13
+B0000011.RDB,   X:-1, Z:-2
+B0000002.RDB,   X:-1, Z:-1
+B0000008.RDB,   X:-1, Z:0
+B0000011.RDB,   X:0, Z:-3
+N0000041.RDB,   X:0, Z:-2
+N0000024.RDB,   X:0, Z:-1
+N0000075.RDB,   X:0, Z:0
+B0000003.RDB,   X:0, Z:1
+B0000005.RDB,   X:1, Z:-2
+B0000014.RDB,   X:1, Z:-1
+N0000022.RDB,   X:1, Z:0
+B0000003.RDB,   X:1, Z:1
+B0000011.RDB,   X:2, Z:0
+
+Dungeon: The Yeomhouse Cemetery
+Type: Forgotten Cemetery
+Total Size: 5
+B0000005.RDB,   X:-1, Z:0
+B0000011.RDB,   X:0, Z:-1
+M0000004.RDB,   X:0, Z:0
+B0000014.RDB,   X:0, Z:1
+B0000009.RDB,   X:1, Z:0
+
+Dungeon: Ruins of The Old Greening Hovel
+Type: Ruined Castle
+Total Size: 12
+B0000008.RDB,   X:-2, Z:1
+B0000008.RDB,   X:-1, Z:0
+N0000079.RDB,   X:-1, Z:1
+B0000004.RDB,   X:-1, Z:2
+B0000014.RDB,   X:0, Z:-1
+N0000061.RDB,   X:0, Z:0
+N0000039.RDB,   X:0, Z:1
+B0000010.RDB,   X:0, Z:2
+B0000005.RDB,   X:1, Z:-1
+W0000011.RDB,   X:1, Z:0
+B0000000.RDB,   X:1, Z:1
+B0000002.RDB,   X:2, Z:0
+
+Dungeon: Ruins of Hearthfield's Hold
+Type: Ruined Castle
+Total Size: 10
+B0000000.RDB,   X:-1, Z:-1
+B0000013.RDB,   X:-1, Z:0
+B0000002.RDB,   X:0, Z:-2
+N0000025.RDB,   X:0, Z:-1
+W0000005.RDB,   X:0, Z:0
+B0000002.RDB,   X:0, Z:1
+B0000004.RDB,   X:1, Z:-1
+W0000023.RDB,   X:1, Z:0
+B0000010.RDB,   X:1, Z:1
+B0000011.RDB,   X:2, Z:0
+
+Dungeon: Ruins of Hawkfield Tower
+Type: Natural Cave
+Total Size: 13
+B0000010.RDB,   X:-1, Z:0
+B0000014.RDB,   X:0, Z:-1
+N0000038.RDB,   X:0, Z:0
+B0000005.RDB,   X:0, Z:1
+B0000005.RDB,   X:1, Z:-1
+W0000007.RDB,   X:1, Z:0
+B0000011.RDB,   X:1, Z:1
+B0000013.RDB,   X:2, Z:-2
+W0000013.RDB,   X:2, Z:-1
+N0000018.RDB,   X:2, Z:0
+B0000009.RDB,   X:2, Z:1
+B0000000.RDB,   X:3, Z:-1
+B0000011.RDB,   X:3, Z:0
+
+Dungeon: The Tower of Copperhart
+Type: Ruined Castle
+Total Size: 11
+B0000014.RDB,   X:-1, Z:-1
+B0000004.RDB,   X:-1, Z:0
+B0000012.RDB,   X:-1, Z:1
+B0000011.RDB,   X:0, Z:-2
+N0000001.RDB,   X:0, Z:-1
+N0000063.RDB,   X:0, Z:0
+W0000026.RDB,   X:0, Z:1
+B0000003.RDB,   X:0, Z:2
+B0000002.RDB,   X:1, Z:-1
+B0000010.RDB,   X:1, Z:0
+B0000008.RDB,   X:1, Z:1
+
+Dungeon: The Ashsly Graveyard
+Type: Forgotten Cemetery
+Total Size: 5
+B0000001.RDB,   X:-1, Z:0
+B0000007.RDB,   X:0, Z:-1
+M0000001.RDB,   X:0, Z:0
+B0000008.RDB,   X:0, Z:1
+B0000005.RDB,   X:1, Z:0
+
+Dungeon: The Vojrahoth Nest
+Type: Spider Nest
+Total Size: 10
+B0000005.RDB,   X:-2, Z:1
+B0000003.RDB,   X:-1, Z:0
+W0000016.RDB,   X:-1, Z:1
+B0000004.RDB,   X:-1, Z:2
+B0000011.RDB,   X:0, Z:-1
+N0000006.RDB,   X:0, Z:0
+N0000012.RDB,   X:0, Z:1
+B0000001.RDB,   X:0, Z:2
+B0000000.RDB,   X:1, Z:0
+B0000009.RDB,   X:1, Z:1
+
+Dungeon: The Masterton Graveyard
+Type: Forgotten Cemetery
+Total Size: 5
+B0000005.RDB,   X:-1, Z:0
+B0000000.RDB,   X:0, Z:-1
+M0000008.RDB,   X:0, Z:0
+B0000001.RDB,   X:0, Z:1
+B0000002.RDB,   X:1, Z:0
+
+Dungeon: Ruins of Coppercroft Court
+Type: Desecrated Temple
+Total Size: 8
+B0000005.RDB,   X:-1, Z:0
+B0000001.RDB,   X:0, Z:-1
+N0000020.RDB,   X:0, Z:0
+B0000011.RDB,   X:0, Z:1
+B0000013.RDB,   X:1, Z:-1
+W0000003.RDB,   X:1, Z:0
+B0000001.RDB,   X:1, Z:1
+B0000006.RDB,   X:2, Z:0
+
+Dungeon: Ruins of The Old Kingford Hovel
+Type: Desecrated Temple
+Total Size: 11
+B0000009.RDB,   X:-3, Z:0
+B0000006.RDB,   X:-2, Z:-1
+N0000017.RDB,   X:-2, Z:0
+B0000004.RDB,   X:-2, Z:1
+B0000002.RDB,   X:-1, Z:-1
+N0000049.RDB,   X:-1, Z:0
+B0000012.RDB,   X:-1, Z:1
+B0000004.RDB,   X:0, Z:-1
+N0000041.RDB,   X:0, Z:0
+B0000003.RDB,   X:0, Z:1
+B0000003.RDB,   X:1, Z:0
+
+Dungeon: Ruins of Woodcroft Palace
+Type: Ruined Castle
+Total Size: 10
+B0000009.RDB,   X:-1, Z:0
+B0000006.RDB,   X:0, Z:-1
+W0000015.RDB,   X:0, Z:0
+B0000003.RDB,   X:0, Z:1
+B0000002.RDB,   X:1, Z:-2
+W0000026.RDB,   X:1, Z:-1
+W0000018.RDB,   X:1, Z:0
+B0000006.RDB,   X:1, Z:1
+B0000003.RDB,   X:2, Z:-1
+B0000006.RDB,   X:2, Z:0
+
+Dungeon: THe Crypts of Kingham
+Type: Cemetery
+Total Size: 5
+B0000011.RDB,   X:-1, Z:0
+B0000002.RDB,   X:0, Z:-1
+M0000000.RDB,   X:0, Z:0
+B0000000.RDB,   X:0, Z:1
+B0000013.RDB,   X:1, Z:0
+
+Dungeon: THe Crypts of Mastersmith
+Type: Forgotten Cemetery
+Total Size: 5
+B0000009.RDB,   X:-1, Z:0
+B0000002.RDB,   X:0, Z:-1
+M0000005.RDB,   X:0, Z:0
+B0000001.RDB,   X:0, Z:1
+B0000000.RDB,   X:1, Z:0
+
+
+
+Block Count Breakdown For This Region:
+
+B0000013.RDB:  32
+B0000002.RDB:  31
+B0000000.RDB:  27
+B0000005.RDB:  25
+B0000003.RDB:  25
+B0000011.RDB:  24
+B0000010.RDB:  23
+B0000008.RDB:  20
+B0000009.RDB:  19
+B0000001.RDB:  18
+B0000012.RDB:  17
+B0000004.RDB:  17
+B0000014.RDB:  17
+B0000006.RDB:  16
+B0000007.RDB:  15
+N0000063.RDB:  5
+W0000026.RDB:  4
+M0000005.RDB:  4
+W0000018.RDB:  4
+N0000041.RDB:  4
+W0000020.RDB:  3
+N0000057.RDB:  3
+W0000003.RDB:  3
+W0000012.RDB:  3
+N0000075.RDB:  3
+W0000011.RDB:  3
+W0000007.RDB:  3
+N0000012.RDB:  3
+N0000091.RDB:  2
+W0000000.RDB:  2
+W0000021.RDB:  2
+W0000016.RDB:  2
+N0000053.RDB:  2
+N0000060.RDB:  2
+N0000087.RDB:  2
+W0000015.RDB:  2
+N0000079.RDB:  2
+M0000006.RDB:  2
+N0000008.RDB:  2
+M0000008.RDB:  2
+N0000023.RDB:  2
+N0000005.RDB:  2
+N0000022.RDB:  2
+W0000005.RDB:  2
+N0000035.RDB:  2
+N0000039.RDB:  2
+N0000020.RDB:  2
+N0000004.RDB:  2
+N0000013.RDB:  1
+N0000036.RDB:  1
+N0000089.RDB:  1
+W0000014.RDB:  1
+N0000016.RDB:  1
+W0000022.RDB:  1
+N0000076.RDB:  1
+N0000030.RDB:  1
+N0000009.RDB:  1
+N0000070.RDB:  1
+W0000029.RDB:  1
+N0000072.RDB:  1
+N0000044.RDB:  1
+N0000084.RDB:  1
+N0000078.RDB:  1
+N0000029.RDB:  1
+N0000047.RDB:  1
+N0000081.RDB:  1
+N0000080.RDB:  1
+S0000181.RDB:  1
+S0000180.RDB:  1
+W0000004.RDB:  1
+W0000001.RDB:  1
+W0000008.RDB:  1
+N0000090.RDB:  1
+N0000073.RDB:  1
+N0000040.RDB:  1
+N0000059.RDB:  1
+N0000024.RDB:  1
+M0000004.RDB:  1
+N0000061.RDB:  1
+N0000025.RDB:  1
+W0000023.RDB:  1
+N0000038.RDB:  1
+W0000013.RDB:  1
+N0000018.RDB:  1
+N0000001.RDB:  1
+M0000001.RDB:  1
+N0000006.RDB:  1
+N0000017.RDB:  1
+N0000049.RDB:  1
+M0000000.RDB:  1
+
+END

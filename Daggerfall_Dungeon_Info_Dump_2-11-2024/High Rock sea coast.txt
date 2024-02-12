@@ -1,0 +1,26 @@
+Region: High Rock sea coast
+
+Dungeon: Mantellan Crux
+Type: Harpy Nest
+Total Size: 7
+S0000000.RDB,   X:0, Z:0
+S0000001.RDB,   X:-1, Z:0
+S0000002.RDB,   X:-2, Z:0
+S0000003.RDB,   X:-3, Z:0
+S0000004.RDB,   X:-4, Z:0
+S0000006.RDB,   X:-4, Z:1
+S0000005.RDB,   X:-5, Z:1
+
+
+
+Block Count Breakdown For This Region:
+
+S0000000.RDB:  1
+S0000001.RDB:  1
+S0000002.RDB:  1
+S0000003.RDB:  1
+S0000004.RDB:  1
+S0000006.RDB:  1
+S0000005.RDB:  1
+
+END

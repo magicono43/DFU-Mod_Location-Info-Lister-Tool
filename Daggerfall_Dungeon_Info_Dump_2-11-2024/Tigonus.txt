@@ -1,0 +1,1245 @@
+Region: Tigonus
+
+Dungeon: The Web of Grollath
+Type: Scorpion Nest
+Total Size: 13
+B0000004.RDB,   X:-1, Z:0
+B0000008.RDB,   X:0, Z:-2
+B0000012.RDB,   X:0, Z:-1
+N0000011.RDB,   X:0, Z:0
+B0000004.RDB,   X:0, Z:1
+B0000005.RDB,   X:1, Z:-3
+W0000003.RDB,   X:1, Z:-2
+N0000054.RDB,   X:1, Z:-1
+W0000013.RDB,   X:1, Z:0
+B0000006.RDB,   X:1, Z:1
+B0000004.RDB,   X:2, Z:-2
+B0000014.RDB,   X:2, Z:-1
+B0000010.RDB,   X:2, Z:0
+
+Dungeon: Ruins of The Ghuldten Farmstead
+Type: Vampire Haunt
+Total Size: 8
+B0000002.RDB,   X:-1, Z:-1
+B0000005.RDB,   X:-1, Z:0
+B0000002.RDB,   X:0, Z:-2
+N0000026.RDB,   X:0, Z:-1
+N0000083.RDB,   X:0, Z:0
+B0000004.RDB,   X:0, Z:1
+B0000014.RDB,   X:1, Z:-1
+B0000008.RDB,   X:1, Z:0
+
+Dungeon: The Citadel of Glaldem
+Type: Prison
+Total Size: 8
+B0000001.RDB,   X:-1, Z:0
+B0000008.RDB,   X:0, Z:-1
+N0000085.RDB,   X:0, Z:0
+B0000010.RDB,   X:0, Z:1
+B0000011.RDB,   X:1, Z:-1
+N0000076.RDB,   X:1, Z:0
+B0000000.RDB,   X:1, Z:1
+B0000012.RDB,   X:2, Z:0
+
+Dungeon: Ruins of Castle B'irn
+Type: Laboratory
+Total Size: 8
+B0000000.RDB,   X:-1, Z:0
+B0000012.RDB,   X:0, Z:-1
+N0000088.RDB,   X:0, Z:0
+B0000014.RDB,   X:0, Z:1
+B0000009.RDB,   X:1, Z:-1
+N0000053.RDB,   X:1, Z:0
+B0000004.RDB,   X:1, Z:1
+B0000002.RDB,   X:2, Z:0
+
+Dungeon: The Fortress of Rhorpom
+Type: Vampire Haunt
+Total Size: 8
+B0000013.RDB,   X:-1, Z:0
+B0000006.RDB,   X:-1, Z:1
+B0000012.RDB,   X:0, Z:-1
+N0000004.RDB,   X:0, Z:0
+N0000006.RDB,   X:0, Z:1
+B0000011.RDB,   X:0, Z:2
+B0000003.RDB,   X:1, Z:0
+B0000013.RDB,   X:1, Z:1
+
+Dungeon: The Laboratory of Naghtur
+Type: Laboratory
+Total Size: 10
+B0000006.RDB,   X:-2, Z:1
+B0000011.RDB,   X:-1, Z:0
+N0000043.RDB,   X:-1, Z:1
+B0000003.RDB,   X:-1, Z:2
+B0000003.RDB,   X:0, Z:-1
+W0000015.RDB,   X:0, Z:0
+N0000023.RDB,   X:0, Z:1
+B0000002.RDB,   X:0, Z:2
+B0000003.RDB,   X:1, Z:0
+B0000000.RDB,   X:1, Z:1
+
+Dungeon: The Haunt of Verezezzar
+Type: Vampire Haunt
+Total Size: 13
+B0000009.RDB,   X:-1, Z:0
+B0000011.RDB,   X:-1, Z:1
+B0000002.RDB,   X:0, Z:-1
+N0000045.RDB,   X:0, Z:0
+N0000031.RDB,   X:0, Z:1
+B0000009.RDB,   X:0, Z:2
+B0000013.RDB,   X:1, Z:0
+W0000006.RDB,   X:1, Z:1
+B0000003.RDB,   X:1, Z:2
+B0000002.RDB,   X:2, Z:0
+W0000004.RDB,   X:2, Z:1
+B0000004.RDB,   X:2, Z:2
+B0000000.RDB,   X:3, Z:1
+
+Dungeon: The Kheghtke Pit
+Type: Mine
+Total Size: 10
+B0000005.RDB,   X:-2, Z:-1
+B0000008.RDB,   X:-1, Z:-2
+W0000021.RDB,   X:-1, Z:-1
+B0000001.RDB,   X:-1, Z:0
+B0000001.RDB,   X:0, Z:-2
+N0000067.RDB,   X:0, Z:-1
+W0000010.RDB,   X:0, Z:0
+B0000002.RDB,   X:0, Z:1
+B0000005.RDB,   X:1, Z:-1
+B0000001.RDB,   X:1, Z:0
+
+Dungeon: The Bajem Cemetery
+Type: Cemetery
+Total Size: 5
+B0000010.RDB,   X:-1, Z:0
+B0000008.RDB,   X:0, Z:-1
+M0000003.RDB,   X:0, Z:0
+B0000004.RDB,   X:0, Z:1
+B0000014.RDB,   X:1, Z:0
+
+Dungeon: Ruins of M'irte Hall
+Type: Harpy Nest
+Total Size: 12
+B0000003.RDB,   X:-1, Z:0
+B0000001.RDB,   X:-1, Z:1
+B0000014.RDB,   X:0, Z:-1
+N0000017.RDB,   X:0, Z:0
+W0000027.RDB,   X:0, Z:1
+B0000013.RDB,   X:0, Z:2
+B0000011.RDB,   X:1, Z:-1
+N0000003.RDB,   X:1, Z:0
+W0000005.RDB,   X:1, Z:1
+B0000003.RDB,   X:1, Z:2
+B0000003.RDB,   X:2, Z:0
+B0000010.RDB,   X:2, Z:1
+
+Dungeon: The Web of Azdoth
+Type: Scorpion Nest
+Total Size: 13
+B0000012.RDB,   X:-1, Z:-2
+B0000007.RDB,   X:-1, Z:-1
+B0000001.RDB,   X:-1, Z:0
+B0000008.RDB,   X:0, Z:-3
+N0000015.RDB,   X:0, Z:-2
+N0000079.RDB,   X:0, Z:-1
+N0000065.RDB,   X:0, Z:0
+B0000007.RDB,   X:0, Z:1
+B0000011.RDB,   X:1, Z:-3
+N0000064.RDB,   X:1, Z:-2
+B0000012.RDB,   X:1, Z:-1
+B0000013.RDB,   X:1, Z:0
+B0000003.RDB,   X:2, Z:-2
+
+Dungeon: The Circle of Stalltha
+Type: Barbarian Stronghold
+Total Size: 12
+B0000009.RDB,   X:-1, Z:0
+B0000008.RDB,   X:-1, Z:1
+B0000009.RDB,   X:0, Z:-1
+W0000003.RDB,   X:0, Z:0
+N0000029.RDB,   X:0, Z:1
+B0000000.RDB,   X:0, Z:2
+B0000003.RDB,   X:1, Z:0
+W0000000.RDB,   X:1, Z:1
+N0000081.RDB,   X:1, Z:2
+B0000000.RDB,   X:1, Z:3
+B0000009.RDB,   X:2, Z:1
+B0000012.RDB,   X:2, Z:2
+
+Dungeon: Ruins of The Tower of Varchim
+Type: Human Stronghold
+Total Size: 8
+B0000014.RDB,   X:-1, Z:-1
+B0000003.RDB,   X:-1, Z:0
+B0000008.RDB,   X:0, Z:-2
+N0000047.RDB,   X:0, Z:-1
+N0000001.RDB,   X:0, Z:0
+B0000001.RDB,   X:0, Z:1
+B0000007.RDB,   X:1, Z:-1
+B0000006.RDB,   X:1, Z:0
+
+Dungeon: Ruins of Shrezam Manor
+Type: Natural Cave
+Total Size: 10
+B0000000.RDB,   X:-2, Z:-1
+B0000012.RDB,   X:-2, Z:0
+B0000003.RDB,   X:-1, Z:-2
+W0000029.RDB,   X:-1, Z:-1
+N0000070.RDB,   X:-1, Z:0
+B0000014.RDB,   X:-1, Z:1
+B0000014.RDB,   X:0, Z:-1
+N0000089.RDB,   X:0, Z:0
+B0000005.RDB,   X:0, Z:1
+B0000001.RDB,   X:1, Z:0
+
+Dungeon: The Gaol of Stughtte
+Type: Prison
+Total Size: 8
+B0000005.RDB,   X:-1, Z:0
+B0000010.RDB,   X:-1, Z:1
+B0000014.RDB,   X:0, Z:-1
+N0000056.RDB,   X:0, Z:0
+W0000027.RDB,   X:0, Z:1
+B0000005.RDB,   X:0, Z:2
+B0000002.RDB,   X:1, Z:0
+B0000005.RDB,   X:1, Z:1
+
+Dungeon: The Grave of Balthezyth
+Type: Crypt
+Total Size: 13
+B0000001.RDB,   X:-2, Z:0
+B0000003.RDB,   X:-1, Z:-2
+B0000003.RDB,   X:-1, Z:-1
+W0000012.RDB,   X:-1, Z:0
+B0000011.RDB,   X:-1, Z:1
+B0000005.RDB,   X:0, Z:-3
+N0000011.RDB,   X:0, Z:-2
+N0000045.RDB,   X:0, Z:-1
+N0000073.RDB,   X:0, Z:0
+B0000002.RDB,   X:0, Z:1
+B0000014.RDB,   X:1, Z:-2
+B0000012.RDB,   X:1, Z:-1
+B0000002.RDB,   X:1, Z:0
+
+Dungeon: The Caargar Tombs
+Type: Cemetery
+Total Size: 5
+B0000012.RDB,   X:-1, Z:0
+B0000008.RDB,   X:0, Z:-1
+M0000007.RDB,   X:0, Z:0
+B0000001.RDB,   X:0, Z:1
+B0000005.RDB,   X:1, Z:0
+
+Dungeon: The Fhurkar Pit
+Type: Mine
+Total Size: 8
+B0000012.RDB,   X:-1, Z:0
+B0000001.RDB,   X:0, Z:-1
+N0000057.RDB,   X:0, Z:0
+B0000001.RDB,   X:0, Z:1
+B0000006.RDB,   X:1, Z:-1
+W0000016.RDB,   X:1, Z:0
+B0000001.RDB,   X:1, Z:1
+B0000011.RDB,   X:2, Z:0
+
+Dungeon: The Roost of Hezotlath
+Type: Harpy Nest
+Total Size: 8
+B0000010.RDB,   X:-2, Z:0
+B0000002.RDB,   X:-1, Z:-1
+N0000063.RDB,   X:-1, Z:0
+B0000012.RDB,   X:-1, Z:1
+B0000006.RDB,   X:0, Z:-1
+N0000015.RDB,   X:0, Z:0
+B0000009.RDB,   X:0, Z:1
+B0000004.RDB,   X:1, Z:0
+
+Dungeon: The Krordom Graveyard
+Type: Forgotten Cemetery
+Total Size: 5
+B0000012.RDB,   X:-1, Z:0
+B0000000.RDB,   X:0, Z:-1
+M0000008.RDB,   X:0, Z:0
+B0000008.RDB,   X:0, Z:1
+B0000000.RDB,   X:1, Z:0
+
+Dungeon: Ruins of The Old Rasur Place
+Type: Crypt
+Total Size: 8
+B0000004.RDB,   X:-1, Z:0
+B0000010.RDB,   X:-1, Z:1
+B0000011.RDB,   X:0, Z:-1
+W0000017.RDB,   X:0, Z:0
+N0000045.RDB,   X:0, Z:1
+B0000010.RDB,   X:0, Z:2
+B0000006.RDB,   X:1, Z:0
+B0000003.RDB,   X:1, Z:1
+
+Dungeon: Castle Viscount Darkomam
+Type: Vampire Haunt
+Total Size: 10
+B0000007.RDB,   X:-2, Z:-1
+B0000011.RDB,   X:-1, Z:-2
+N0000054.RDB,   X:-1, Z:-1
+B0000007.RDB,   X:-1, Z:0
+B0000004.RDB,   X:0, Z:-2
+N0000066.RDB,   X:0, Z:-1
+N0000076.RDB,   X:0, Z:0
+B0000002.RDB,   X:0, Z:1
+B0000002.RDB,   X:1, Z:-1
+B0000001.RDB,   X:1, Z:0
+
+Dungeon: Castle Lhefyl'kern
+Type: Mine
+Total Size: 12
+B0000000.RDB,   X:-3, Z:-1
+B0000001.RDB,   X:-2, Z:-2
+N0000074.RDB,   X:-2, Z:-1
+B0000010.RDB,   X:-2, Z:0
+B0000006.RDB,   X:-1, Z:-2
+N0000086.RDB,   X:-1, Z:-1
+W0000016.RDB,   X:-1, Z:0
+B0000013.RDB,   X:-1, Z:1
+B0000010.RDB,   X:0, Z:-1
+W0000021.RDB,   X:0, Z:0
+B0000000.RDB,   X:0, Z:1
+B0000007.RDB,   X:1, Z:0
+
+Dungeon: Ruins of Bourcem Court
+Type: Natural Cave
+Total Size: 8
+B0000008.RDB,   X:-1, Z:0
+B0000008.RDB,   X:-1, Z:1
+B0000011.RDB,   X:0, Z:-1
+W0000001.RDB,   X:0, Z:0
+N0000050.RDB,   X:0, Z:1
+B0000002.RDB,   X:0, Z:2
+B0000014.RDB,   X:1, Z:0
+B0000013.RDB,   X:1, Z:1
+
+Dungeon: The Stronghold of Sofylar
+Type: Human Stronghold
+Total Size: 8
+B0000011.RDB,   X:-1, Z:-1
+B0000010.RDB,   X:-1, Z:0
+B0000006.RDB,   X:0, Z:-2
+N0000039.RDB,   X:0, Z:-1
+W0000026.RDB,   X:0, Z:0
+B0000010.RDB,   X:0, Z:1
+B0000004.RDB,   X:1, Z:-1
+B0000004.RDB,   X:1, Z:0
+
+Dungeon: The Nest of Gromrugoth
+Type: Harpy Nest
+Total Size: 13
+B0000011.RDB,   X:-1, Z:-2
+B0000009.RDB,   X:-1, Z:-1
+B0000000.RDB,   X:-1, Z:0
+B0000009.RDB,   X:0, Z:-3
+N0000015.RDB,   X:0, Z:-2
+N0000047.RDB,   X:0, Z:-1
+N0000042.RDB,   X:0, Z:0
+B0000014.RDB,   X:0, Z:1
+B0000000.RDB,   X:1, Z:-2
+B0000006.RDB,   X:1, Z:-1
+N0000024.RDB,   X:1, Z:0
+B0000013.RDB,   X:1, Z:1
+B0000010.RDB,   X:2, Z:0
+
+Dungeon: The Convent of Baluliva
+Type: Desecrated Temple
+Total Size: 10
+B0000009.RDB,   X:-1, Z:0
+B0000004.RDB,   X:0, Z:-1
+W0000023.RDB,   X:0, Z:0
+B0000008.RDB,   X:0, Z:1
+B0000004.RDB,   X:1, Z:-2
+N0000079.RDB,   X:1, Z:-1
+N0000046.RDB,   X:1, Z:0
+B0000014.RDB,   X:1, Z:1
+B0000009.RDB,   X:2, Z:-1
+B0000001.RDB,   X:2, Z:0
+
+Dungeon: Castle Duke Morobeon
+Type: Vampire Haunt
+Total Size: 8
+B0000001.RDB,   X:-1, Z:0
+B0000005.RDB,   X:-1, Z:1
+B0000010.RDB,   X:0, Z:-1
+N0000060.RDB,   X:0, Z:0
+N0000053.RDB,   X:0, Z:1
+B0000004.RDB,   X:0, Z:2
+B0000010.RDB,   X:1, Z:0
+B0000011.RDB,   X:1, Z:1
+
+Dungeon: The Maelith Cave
+Type: Natural Cave
+Total Size: 8
+B0000008.RDB,   X:-2, Z:0
+B0000002.RDB,   X:-1, Z:-1
+N0000052.RDB,   X:-1, Z:0
+B0000014.RDB,   X:-1, Z:1
+B0000002.RDB,   X:0, Z:-1
+W0000022.RDB,   X:0, Z:0
+B0000002.RDB,   X:0, Z:1
+B0000007.RDB,   X:1, Z:0
+
+Dungeon: The Vojetor Web
+Type: Spider Nest
+Total Size: 8
+B0000005.RDB,   X:-1, Z:0
+B0000004.RDB,   X:0, Z:-1
+N0000019.RDB,   X:0, Z:0
+B0000005.RDB,   X:0, Z:1
+B0000010.RDB,   X:1, Z:-1
+N0000061.RDB,   X:1, Z:0
+B0000003.RDB,   X:1, Z:1
+B0000005.RDB,   X:2, Z:0
+
+Dungeon: The Log Crypts
+Type: Forgotten Cemetery
+Total Size: 5
+B0000009.RDB,   X:-1, Z:0
+B0000014.RDB,   X:0, Z:-1
+M0000000.RDB,   X:0, Z:0
+B0000008.RDB,   X:0, Z:1
+B0000014.RDB,   X:1, Z:0
+
+Dungeon: Khiz's Guard
+Type: Orc Stronghold
+Total Size: 8
+B0000012.RDB,   X:-1, Z:0
+B0000011.RDB,   X:0, Z:-1
+N0000043.RDB,   X:0, Z:0
+B0000010.RDB,   X:0, Z:1
+B0000007.RDB,   X:1, Z:-1
+N0000083.RDB,   X:1, Z:0
+B0000009.RDB,   X:1, Z:1
+B0000012.RDB,   X:2, Z:0
+
+Dungeon: The Cavern of Maelebranxulla
+Type: Natural Cave
+Total Size: 11
+B0000009.RDB,   X:-2, Z:0
+B0000014.RDB,   X:-1, Z:-1
+N0000080.RDB,   X:-1, Z:0
+B0000002.RDB,   X:-1, Z:1
+B0000004.RDB,   X:0, Z:-1
+N0000059.RDB,   X:0, Z:0
+B0000009.RDB,   X:0, Z:1
+B0000012.RDB,   X:1, Z:-1
+W0000024.RDB,   X:1, Z:0
+B0000009.RDB,   X:1, Z:1
+B0000001.RDB,   X:2, Z:0
+
+Dungeon: Jubonulla Minster
+Type: Desecrated Temple
+Total Size: 14
+B0000004.RDB,   X:-2, Z:0
+B0000010.RDB,   X:-1, Z:-1
+W0000025.RDB,   X:-1, Z:0
+B0000011.RDB,   X:-1, Z:1
+B0000005.RDB,   X:0, Z:-1
+W0000006.RDB,   X:0, Z:0
+B0000003.RDB,   X:0, Z:1
+B0000012.RDB,   X:1, Z:-1
+W0000013.RDB,   X:1, Z:0
+B0000003.RDB,   X:1, Z:1
+B0000013.RDB,   X:2, Z:-1
+N0000059.RDB,   X:2, Z:0
+B0000004.RDB,   X:2, Z:1
+B0000007.RDB,   X:3, Z:0
+
+Dungeon: The Web of Gromgon
+Type: Spider Nest
+Total Size: 8
+B0000002.RDB,   X:-2, Z:0
+B0000002.RDB,   X:-1, Z:-1
+W0000029.RDB,   X:-1, Z:0
+B0000006.RDB,   X:-1, Z:1
+B0000009.RDB,   X:0, Z:-1
+N0000042.RDB,   X:0, Z:0
+B0000001.RDB,   X:0, Z:1
+B0000014.RDB,   X:1, Z:0
+
+Dungeon: The Rattothor Coop
+Type: Harpy Nest
+Total Size: 12
+B0000008.RDB,   X:-1, Z:0
+B0000000.RDB,   X:0, Z:-1
+N0000019.RDB,   X:0, Z:0
+B0000006.RDB,   X:0, Z:1
+B0000006.RDB,   X:1, Z:-2
+W0000028.RDB,   X:1, Z:-1
+N0000011.RDB,   X:1, Z:0
+B0000012.RDB,   X:1, Z:1
+B0000005.RDB,   X:2, Z:-2
+W0000012.RDB,   X:2, Z:-1
+B0000005.RDB,   X:2, Z:0
+B0000002.RDB,   X:3, Z:-1
+
+Dungeon: Ruins of Castle Balpta
+Type: Scorpion Nest
+Total Size: 10
+B0000003.RDB,   X:-2, Z:1
+B0000005.RDB,   X:-1, Z:0
+N0000026.RDB,   X:-1, Z:1
+B0000007.RDB,   X:-1, Z:2
+B0000006.RDB,   X:0, Z:-1
+N0000060.RDB,   X:0, Z:0
+W0000017.RDB,   X:0, Z:1
+B0000001.RDB,   X:0, Z:2
+B0000014.RDB,   X:1, Z:0
+B0000009.RDB,   X:1, Z:1
+
+Dungeon: The Lair of Vermbith
+Type: Scorpion Nest
+Total Size: 12
+B0000009.RDB,   X:-1, Z:0
+B0000012.RDB,   X:0, Z:-1
+N0000038.RDB,   X:0, Z:0
+B0000004.RDB,   X:0, Z:1
+B0000009.RDB,   X:1, Z:-2
+W0000006.RDB,   X:1, Z:-1
+N0000071.RDB,   X:1, Z:0
+B0000007.RDB,   X:1, Z:1
+B0000003.RDB,   X:2, Z:-2
+N0000016.RDB,   X:2, Z:-1
+B0000000.RDB,   X:2, Z:0
+B0000010.RDB,   X:3, Z:-1
+
+Dungeon: Shast'kern Tower
+Type: Harpy Nest
+Total Size: 14
+B0000009.RDB,   X:-1, Z:-3
+B0000012.RDB,   X:-1, Z:-2
+B0000008.RDB,   X:-1, Z:-1
+B0000001.RDB,   X:-1, Z:0
+B0000013.RDB,   X:0, Z:-4
+N0000052.RDB,   X:0, Z:-3
+N0000003.RDB,   X:0, Z:-2
+N0000028.RDB,   X:0, Z:-1
+W0000000.RDB,   X:0, Z:0
+B0000002.RDB,   X:0, Z:1
+B0000004.RDB,   X:1, Z:-3
+B0000004.RDB,   X:1, Z:-2
+B0000000.RDB,   X:1, Z:-1
+B0000004.RDB,   X:1, Z:0
+
+Dungeon: Rattloth
+Type: Orc Stronghold
+Total Size: 12
+B0000003.RDB,   X:-2, Z:-2
+B0000013.RDB,   X:-2, Z:-1
+B0000006.RDB,   X:-1, Z:-3
+N0000060.RDB,   X:-1, Z:-2
+W0000023.RDB,   X:-1, Z:-1
+B0000005.RDB,   X:-1, Z:0
+B0000000.RDB,   X:0, Z:-2
+N0000049.RDB,   X:0, Z:-1
+N0000021.RDB,   X:0, Z:0
+B0000009.RDB,   X:0, Z:1
+B0000009.RDB,   X:1, Z:-1
+B0000004.RDB,   X:1, Z:0
+
+Dungeon: The Hezdoth Nest
+Type: Harpy Nest
+Total Size: 8
+B0000008.RDB,   X:-2, Z:0
+B0000010.RDB,   X:-1, Z:-1
+W0000000.RDB,   X:-1, Z:0
+B0000002.RDB,   X:-1, Z:1
+B0000007.RDB,   X:0, Z:-1
+N0000065.RDB,   X:0, Z:0
+B0000009.RDB,   X:0, Z:1
+B0000001.RDB,   X:1, Z:0
+
+Dungeon: The Web of Vojgoth
+Type: Scorpion Nest
+Total Size: 8
+B0000014.RDB,   X:-1, Z:0
+B0000013.RDB,   X:-1, Z:1
+B0000007.RDB,   X:0, Z:-1
+N0000003.RDB,   X:0, Z:0
+N0000000.RDB,   X:0, Z:1
+B0000012.RDB,   X:0, Z:2
+B0000012.RDB,   X:1, Z:0
+B0000004.RDB,   X:1, Z:1
+
+Dungeon: Castle Furar
+Type: Natural Cave
+Total Size: 8
+B0000010.RDB,   X:-2, Z:0
+B0000009.RDB,   X:-1, Z:-1
+N0000064.RDB,   X:-1, Z:0
+B0000001.RDB,   X:-1, Z:1
+B0000010.RDB,   X:0, Z:-1
+N0000045.RDB,   X:0, Z:0
+B0000006.RDB,   X:0, Z:1
+B0000007.RDB,   X:1, Z:0
+
+Dungeon: The Community of Thoshki
+Type: Barbarian Stronghold
+Total Size: 8
+B0000000.RDB,   X:-1, Z:0
+B0000011.RDB,   X:0, Z:-1
+N0000024.RDB,   X:0, Z:0
+B0000003.RDB,   X:0, Z:1
+B0000005.RDB,   X:1, Z:-1
+N0000009.RDB,   X:1, Z:0
+B0000006.RDB,   X:1, Z:1
+B0000004.RDB,   X:2, Z:0
+
+Dungeon: The Tombs of Caellrn
+Type: Forgotten Cemetery
+Total Size: 5
+B0000000.RDB,   X:-1, Z:0
+B0000008.RDB,   X:0, Z:-1
+M0000002.RDB,   X:0, Z:0
+B0000001.RDB,   X:0, Z:1
+B0000013.RDB,   X:1, Z:0
+
+Dungeon: Dhirkim Tower
+Type: Crypt
+Total Size: 13
+B0000002.RDB,   X:-2, Z:0
+B0000009.RDB,   X:-2, Z:1
+B0000006.RDB,   X:-2, Z:2
+B0000000.RDB,   X:-1, Z:-1
+N0000077.RDB,   X:-1, Z:0
+W0000012.RDB,   X:-1, Z:1
+W0000028.RDB,   X:-1, Z:2
+B0000010.RDB,   X:-1, Z:3
+B0000014.RDB,   X:0, Z:-1
+N0000039.RDB,   X:0, Z:0
+B0000002.RDB,   X:0, Z:1
+B0000005.RDB,   X:0, Z:2
+B0000000.RDB,   X:1, Z:0
+
+Dungeon: The Norgoth Nest
+Type: Harpy Nest
+Total Size: 8
+B0000006.RDB,   X:-1, Z:-1
+B0000011.RDB,   X:-1, Z:0
+B0000005.RDB,   X:0, Z:-2
+W0000026.RDB,   X:0, Z:-1
+W0000021.RDB,   X:0, Z:0
+B0000006.RDB,   X:0, Z:1
+B0000008.RDB,   X:1, Z:-1
+B0000012.RDB,   X:1, Z:0
+
+Dungeon: The Rholpan Cemetery
+Type: Cemetery
+Total Size: 5
+B0000011.RDB,   X:-1, Z:0
+B0000006.RDB,   X:0, Z:-1
+M0000007.RDB,   X:0, Z:0
+B0000007.RDB,   X:0, Z:1
+B0000012.RDB,   X:1, Z:0
+
+Dungeon: The B'irmca Convergence
+Type: Barbarian Stronghold
+Total Size: 12
+B0000012.RDB,   X:-1, Z:0
+B0000013.RDB,   X:0, Z:-1
+W0000002.RDB,   X:0, Z:0
+B0000011.RDB,   X:0, Z:1
+B0000009.RDB,   X:1, Z:-2
+W0000026.RDB,   X:1, Z:-1
+W0000020.RDB,   X:1, Z:0
+B0000012.RDB,   X:1, Z:1
+B0000004.RDB,   X:2, Z:-2
+N0000034.RDB,   X:2, Z:-1
+B0000009.RDB,   X:2, Z:0
+B0000001.RDB,   X:3, Z:-1
+
+Dungeon: The Morgoth Aerie
+Type: Harpy Nest
+Total Size: 13
+B0000008.RDB,   X:-3, Z:-1
+B0000013.RDB,   X:-3, Z:0
+B0000008.RDB,   X:-2, Z:-2
+N0000014.RDB,   X:-2, Z:-1
+N0000055.RDB,   X:-2, Z:0
+B0000001.RDB,   X:-2, Z:1
+B0000012.RDB,   X:-1, Z:-1
+N0000040.RDB,   X:-1, Z:0
+B0000009.RDB,   X:-1, Z:1
+B0000005.RDB,   X:0, Z:-1
+W0000005.RDB,   X:0, Z:0
+B0000008.RDB,   X:0, Z:1
+B0000013.RDB,   X:1, Z:0
+
+Dungeon: The Cabal of Nirgsa
+Type: Coven
+Total Size: 8
+B0000001.RDB,   X:-1, Z:0
+B0000005.RDB,   X:-1, Z:1
+B0000007.RDB,   X:0, Z:-1
+N0000063.RDB,   X:0, Z:0
+W0000029.RDB,   X:0, Z:1
+B0000010.RDB,   X:0, Z:2
+B0000002.RDB,   X:1, Z:0
+B0000014.RDB,   X:1, Z:1
+
+Dungeon: Yagbith's Web
+Type: Scorpion Nest
+Total Size: 8
+B0000001.RDB,   X:-1, Z:0
+B0000002.RDB,   X:0, Z:-1
+N0000018.RDB,   X:0, Z:0
+B0000012.RDB,   X:0, Z:1
+B0000002.RDB,   X:1, Z:-1
+N0000003.RDB,   X:1, Z:0
+B0000014.RDB,   X:1, Z:1
+B0000008.RDB,   X:2, Z:0
+
+Dungeon: The Aviary of Sashotgon
+Type: Harpy Nest
+Total Size: 12
+B0000014.RDB,   X:-1, Z:0
+B0000003.RDB,   X:0, Z:-1
+N0000033.RDB,   X:0, Z:0
+B0000004.RDB,   X:0, Z:1
+B0000000.RDB,   X:1, Z:-2
+N0000000.RDB,   X:1, Z:-1
+N0000065.RDB,   X:1, Z:0
+W0000024.RDB,   X:1, Z:1
+B0000009.RDB,   X:1, Z:2
+B0000012.RDB,   X:2, Z:-1
+B0000002.RDB,   X:2, Z:0
+B0000013.RDB,   X:2, Z:1
+
+Dungeon: The Citadel of Blez
+Type: Human Stronghold
+Total Size: 10
+B0000010.RDB,   X:-1, Z:-1
+B0000008.RDB,   X:-1, Z:0
+B0000008.RDB,   X:0, Z:-2
+W0000008.RDB,   X:0, Z:-1
+W0000021.RDB,   X:0, Z:0
+B0000012.RDB,   X:0, Z:1
+B0000011.RDB,   X:1, Z:-2
+W0000022.RDB,   X:1, Z:-1
+B0000009.RDB,   X:1, Z:0
+B0000000.RDB,   X:2, Z:-1
+
+Dungeon: The Coven of F'avba
+Type: Coven
+Total Size: 12
+B0000002.RDB,   X:-1, Z:0
+B0000003.RDB,   X:-1, Z:1
+B0000000.RDB,   X:-1, Z:2
+B0000007.RDB,   X:0, Z:-1
+W0000020.RDB,   X:0, Z:0
+W0000021.RDB,   X:0, Z:1
+W0000015.RDB,   X:0, Z:2
+B0000014.RDB,   X:0, Z:3
+B0000003.RDB,   X:1, Z:0
+W0000016.RDB,   X:1, Z:1
+B0000007.RDB,   X:1, Z:2
+B0000002.RDB,   X:2, Z:1
+
+Dungeon: The Azrius Web
+Type: Scorpion Nest
+Total Size: 8
+B0000014.RDB,   X:-2, Z:0
+B0000009.RDB,   X:-1, Z:-1
+N0000060.RDB,   X:-1, Z:0
+B0000005.RDB,   X:-1, Z:1
+B0000002.RDB,   X:0, Z:-1
+N0000006.RDB,   X:0, Z:0
+B0000012.RDB,   X:0, Z:1
+B0000004.RDB,   X:1, Z:0
+
+Dungeon: Tower Blallar
+Type: Harpy Nest
+Total Size: 8
+B0000009.RDB,   X:-1, Z:0
+B0000002.RDB,   X:-1, Z:1
+B0000014.RDB,   X:0, Z:-1
+W0000019.RDB,   X:0, Z:0
+W0000019.RDB,   X:0, Z:1
+B0000011.RDB,   X:0, Z:2
+B0000002.RDB,   X:1, Z:0
+B0000008.RDB,   X:1, Z:1
+
+Dungeon: Chethar's Hold
+Type: Scorpion Nest
+Total Size: 12
+B0000008.RDB,   X:-1, Z:-2
+B0000003.RDB,   X:-1, Z:-1
+B0000011.RDB,   X:-1, Z:0
+B0000000.RDB,   X:0, Z:-3
+W0000005.RDB,   X:0, Z:-2
+N0000007.RDB,   X:0, Z:-1
+N0000041.RDB,   X:0, Z:0
+B0000014.RDB,   X:0, Z:1
+B0000000.RDB,   X:1, Z:-2
+W0000014.RDB,   X:1, Z:-1
+B0000011.RDB,   X:1, Z:0
+B0000007.RDB,   X:2, Z:-1
+
+Dungeon: The Stronghold of Vlist
+Type: Desecrated Temple
+Total Size: 8
+B0000001.RDB,   X:-2, Z:0
+B0000012.RDB,   X:-1, Z:-1
+N0000002.RDB,   X:-1, Z:0
+B0000000.RDB,   X:-1, Z:1
+B0000006.RDB,   X:0, Z:-1
+W0000000.RDB,   X:0, Z:0
+B0000002.RDB,   X:0, Z:1
+B0000011.RDB,   X:1, Z:0
+
+Dungeon: The Dhughtom Graveyard
+Type: Forgotten Cemetery
+Total Size: 5
+B0000010.RDB,   X:-1, Z:0
+B0000007.RDB,   X:0, Z:-1
+M0000005.RDB,   X:0, Z:0
+B0000010.RDB,   X:0, Z:1
+B0000002.RDB,   X:1, Z:0
+
+Dungeon: Ruins of The Citadel of Cerkrn
+Type: Harpy Nest
+Total Size: 12
+B0000001.RDB,   X:-1, Z:0
+B0000008.RDB,   X:0, Z:-1
+N0000034.RDB,   X:0, Z:0
+B0000006.RDB,   X:0, Z:1
+B0000000.RDB,   X:1, Z:-1
+N0000053.RDB,   X:1, Z:0
+N0000083.RDB,   X:1, Z:1
+B0000012.RDB,   X:1, Z:2
+B0000013.RDB,   X:2, Z:0
+W0000022.RDB,   X:2, Z:1
+B0000009.RDB,   X:2, Z:2
+B0000004.RDB,   X:3, Z:1
+
+Dungeon: The Stronghold of Nhurhton
+Type: Barbarian Stronghold
+Total Size: 11
+B0000012.RDB,   X:-3, Z:0
+B0000006.RDB,   X:-2, Z:-1
+W0000002.RDB,   X:-2, Z:0
+B0000005.RDB,   X:-2, Z:1
+B0000007.RDB,   X:-1, Z:-1
+W0000012.RDB,   X:-1, Z:0
+B0000006.RDB,   X:-1, Z:1
+B0000014.RDB,   X:0, Z:-1
+N0000090.RDB,   X:0, Z:0
+B0000005.RDB,   X:0, Z:1
+B0000000.RDB,   X:1, Z:0
+
+Dungeon: Ruins of Old Raolp-e's Farm
+Type: Mine
+Total Size: 8
+B0000009.RDB,   X:-1, Z:-1
+B0000010.RDB,   X:-1, Z:0
+B0000014.RDB,   X:0, Z:-2
+W0000025.RDB,   X:0, Z:-1
+N0000069.RDB,   X:0, Z:0
+B0000005.RDB,   X:0, Z:1
+B0000005.RDB,   X:1, Z:-1
+B0000014.RDB,   X:1, Z:0
+
+Dungeon: The Hold of Raerct
+Type: Spider Nest
+Total Size: 14
+B0000004.RDB,   X:-2, Z:0
+B0000014.RDB,   X:-1, Z:-1
+N0000011.RDB,   X:-1, Z:0
+B0000002.RDB,   X:-1, Z:1
+B0000013.RDB,   X:0, Z:-1
+N0000052.RDB,   X:0, Z:0
+B0000012.RDB,   X:0, Z:1
+B0000003.RDB,   X:1, Z:-1
+N0000007.RDB,   X:1, Z:0
+B0000006.RDB,   X:1, Z:1
+B0000002.RDB,   X:2, Z:-1
+W0000017.RDB,   X:2, Z:0
+B0000010.RDB,   X:2, Z:1
+B0000007.RDB,   X:3, Z:0
+
+Dungeon: The Yagotvor Nest
+Type: Scorpion Nest
+Total Size: 8
+B0000011.RDB,   X:-1, Z:0
+B0000003.RDB,   X:0, Z:-1
+N0000040.RDB,   X:0, Z:0
+B0000000.RDB,   X:0, Z:1
+B0000001.RDB,   X:1, Z:-1
+W0000000.RDB,   X:1, Z:0
+B0000005.RDB,   X:1, Z:1
+B0000002.RDB,   X:2, Z:0
+
+Dungeon: Khirhtten's Hold
+Type: Mine
+Total Size: 11
+B0000004.RDB,   X:-1, Z:0
+B0000003.RDB,   X:-1, Z:1
+B0000001.RDB,   X:-1, Z:2
+B0000013.RDB,   X:0, Z:-1
+N0000052.RDB,   X:0, Z:0
+N0000053.RDB,   X:0, Z:1
+N0000090.RDB,   X:0, Z:2
+B0000014.RDB,   X:0, Z:3
+B0000001.RDB,   X:1, Z:0
+B0000009.RDB,   X:1, Z:1
+B0000005.RDB,   X:1, Z:2
+
+Dungeon: THe Crypts of Krorpan
+Type: Forgotten Cemetery
+Total Size: 5
+B0000011.RDB,   X:-1, Z:0
+B0000006.RDB,   X:0, Z:-1
+M0000004.RDB,   X:0, Z:0
+B0000005.RDB,   X:0, Z:1
+B0000000.RDB,   X:1, Z:0
+
+Dungeon: Thercrn's Hold
+Type: Desecrated Temple
+Total Size: 12
+B0000002.RDB,   X:-2, Z:1
+B0000000.RDB,   X:-1, Z:0
+W0000027.RDB,   X:-1, Z:1
+B0000006.RDB,   X:-1, Z:2
+B0000010.RDB,   X:0, Z:-1
+N0000011.RDB,   X:0, Z:0
+W0000012.RDB,   X:0, Z:1
+B0000003.RDB,   X:0, Z:2
+B0000010.RDB,   X:1, Z:-1
+W0000016.RDB,   X:1, Z:0
+B0000012.RDB,   X:1, Z:1
+B0000000.RDB,   X:2, Z:0
+
+Dungeon: Norriker
+Type: Orc Stronghold
+Total Size: 11
+B0000001.RDB,   X:-1, Z:0
+B0000004.RDB,   X:-1, Z:1
+B0000010.RDB,   X:-1, Z:2
+B0000008.RDB,   X:0, Z:-1
+N0000089.RDB,   X:0, Z:0
+N0000053.RDB,   X:0, Z:1
+W0000028.RDB,   X:0, Z:2
+B0000014.RDB,   X:0, Z:3
+B0000006.RDB,   X:1, Z:0
+B0000007.RDB,   X:1, Z:1
+B0000014.RDB,   X:1, Z:2
+
+Dungeon: T'uct'kern's Hold
+Type: Harpy Nest
+Total Size: 8
+B0000010.RDB,   X:-1, Z:-1
+B0000004.RDB,   X:-1, Z:0
+B0000008.RDB,   X:0, Z:-2
+N0000086.RDB,   X:0, Z:-1
+N0000029.RDB,   X:0, Z:0
+B0000012.RDB,   X:0, Z:1
+B0000014.RDB,   X:1, Z:-1
+B0000014.RDB,   X:1, Z:0
+
+Dungeon: Castle M'arhtem
+Type: Human Stronghold
+Total Size: 8
+B0000001.RDB,   X:-2, Z:0
+B0000005.RDB,   X:-1, Z:-1
+N0000008.RDB,   X:-1, Z:0
+B0000009.RDB,   X:-1, Z:1
+B0000007.RDB,   X:0, Z:-1
+W0000009.RDB,   X:0, Z:0
+B0000010.RDB,   X:0, Z:1
+B0000014.RDB,   X:1, Z:0
+
+Dungeon: The Mhar'kern Cemetery
+Type: Forgotten Cemetery
+Total Size: 5
+B0000011.RDB,   X:-1, Z:0
+B0000014.RDB,   X:0, Z:-1
+M0000008.RDB,   X:0, Z:0
+B0000005.RDB,   X:0, Z:1
+B0000008.RDB,   X:1, Z:0
+
+Dungeon: The Nhught Graveyard
+Type: Forgotten Cemetery
+Total Size: 5
+B0000008.RDB,   X:-1, Z:0
+B0000005.RDB,   X:0, Z:-1
+M0000000.RDB,   X:0, Z:0
+B0000011.RDB,   X:0, Z:1
+B0000010.RDB,   X:1, Z:0
+
+Dungeon: Ruins of Thircrn Manor
+Type: Orc Stronghold
+Total Size: 14
+B0000002.RDB,   X:-2, Z:0
+B0000006.RDB,   X:-1, Z:-1
+N0000041.RDB,   X:-1, Z:0
+B0000000.RDB,   X:-1, Z:1
+B0000014.RDB,   X:0, Z:-1
+W0000003.RDB,   X:0, Z:0
+B0000004.RDB,   X:0, Z:1
+B0000011.RDB,   X:1, Z:-1
+N0000017.RDB,   X:1, Z:0
+B0000011.RDB,   X:1, Z:1
+B0000004.RDB,   X:2, Z:-1
+W0000028.RDB,   X:2, Z:0
+B0000001.RDB,   X:2, Z:1
+B0000000.RDB,   X:3, Z:0
+
+Dungeon: Ruins of The Shriv Cabin
+Type: Coven
+Total Size: 11
+B0000002.RDB,   X:-3, Z:0
+B0000007.RDB,   X:-2, Z:-1
+N0000074.RDB,   X:-2, Z:0
+B0000000.RDB,   X:-2, Z:1
+B0000013.RDB,   X:-1, Z:-1
+N0000014.RDB,   X:-1, Z:0
+B0000009.RDB,   X:-1, Z:1
+B0000006.RDB,   X:0, Z:-1
+N0000062.RDB,   X:0, Z:0
+B0000006.RDB,   X:0, Z:1
+B0000005.RDB,   X:1, Z:0
+
+Dungeon: Nebuchelon's Tomb
+Type: Crypt
+Total Size: 13
+B0000012.RDB,   X:-1, Z:-1
+B0000002.RDB,   X:-1, Z:0
+B0000006.RDB,   X:0, Z:-2
+W0000024.RDB,   X:0, Z:-1
+W0000004.RDB,   X:0, Z:0
+B0000004.RDB,   X:0, Z:1
+B0000012.RDB,   X:1, Z:-2
+W0000002.RDB,   X:1, Z:-1
+B0000006.RDB,   X:1, Z:0
+B0000004.RDB,   X:2, Z:-2
+N0000011.RDB,   X:2, Z:-1
+B0000006.RDB,   X:2, Z:0
+B0000001.RDB,   X:3, Z:-1
+
+Dungeon: Rattedred
+Type: Giant Stronghold
+Total Size: 13
+B0000001.RDB,   X:-1, Z:0
+B0000012.RDB,   X:0, Z:-1
+N0000071.RDB,   X:0, Z:0
+B0000003.RDB,   X:0, Z:1
+B0000002.RDB,   X:1, Z:-1
+N0000028.RDB,   X:1, Z:0
+B0000005.RDB,   X:1, Z:1
+B0000002.RDB,   X:2, Z:-2
+N0000025.RDB,   X:2, Z:-1
+W0000016.RDB,   X:2, Z:0
+B0000012.RDB,   X:2, Z:1
+B0000003.RDB,   X:3, Z:-1
+B0000009.RDB,   X:3, Z:0
+
+Dungeon: The Tower of Thirter
+Type: Spider Nest
+Total Size: 8
+B0000009.RDB,   X:-1, Z:0
+B0000014.RDB,   X:0, Z:-1
+W0000008.RDB,   X:0, Z:0
+B0000000.RDB,   X:0, Z:1
+B0000009.RDB,   X:1, Z:-1
+N0000004.RDB,   X:1, Z:0
+B0000009.RDB,   X:1, Z:1
+B0000003.RDB,   X:2, Z:0
+
+Dungeon: The Fortress of Thurnem
+Type: Giant Stronghold
+Total Size: 8
+B0000010.RDB,   X:-1, Z:-1
+B0000002.RDB,   X:-1, Z:0
+B0000010.RDB,   X:0, Z:-2
+W0000024.RDB,   X:0, Z:-1
+N0000045.RDB,   X:0, Z:0
+B0000005.RDB,   X:0, Z:1
+B0000003.RDB,   X:1, Z:-1
+B0000011.RDB,   X:1, Z:0
+
+Dungeon: The Castle of Klirchten
+Type: Ruined Castle
+Total Size: 12
+B0000000.RDB,   X:-1, Z:0
+B0000012.RDB,   X:0, Z:-1
+N0000078.RDB,   X:0, Z:0
+B0000006.RDB,   X:0, Z:1
+B0000007.RDB,   X:1, Z:-1
+N0000092.RDB,   X:1, Z:0
+N0000055.RDB,   X:1, Z:1
+B0000014.RDB,   X:1, Z:2
+B0000008.RDB,   X:2, Z:-1
+N0000045.RDB,   X:2, Z:0
+B0000014.RDB,   X:2, Z:1
+B0000006.RDB,   X:3, Z:0
+
+Dungeon: The Nest of Vephang
+Type: Scorpion Nest
+Total Size: 8
+B0000004.RDB,   X:-1, Z:0
+B0000014.RDB,   X:-1, Z:1
+B0000009.RDB,   X:0, Z:-1
+N0000032.RDB,   X:0, Z:0
+N0000052.RDB,   X:0, Z:1
+B0000003.RDB,   X:0, Z:2
+B0000003.RDB,   X:1, Z:0
+B0000001.RDB,   X:1, Z:1
+
+Dungeon: The Sashus Web
+Type: Scorpion Nest
+Total Size: 8
+B0000010.RDB,   X:-1, Z:0
+B0000011.RDB,   X:-1, Z:1
+B0000010.RDB,   X:0, Z:-1
+N0000006.RDB,   X:0, Z:0
+W0000013.RDB,   X:0, Z:1
+B0000008.RDB,   X:0, Z:2
+B0000005.RDB,   X:1, Z:0
+B0000009.RDB,   X:1, Z:1
+
+Dungeon: Sekaus
+Type: Orc Stronghold
+Total Size: 8
+B0000000.RDB,   X:-1, Z:-1
+B0000005.RDB,   X:-1, Z:0
+B0000007.RDB,   X:0, Z:-2
+N0000030.RDB,   X:0, Z:-1
+N0000076.RDB,   X:0, Z:0
+B0000002.RDB,   X:0, Z:1
+B0000014.RDB,   X:1, Z:-1
+B0000001.RDB,   X:1, Z:0
+
+
+
+Block Count Breakdown For This Region:
+
+B0000002.RDB:  47
+B0000014.RDB:  45
+B0000009.RDB:  44
+B0000012.RDB:  42
+B0000005.RDB:  40
+B0000001.RDB:  40
+B0000004.RDB:  39
+B0000010.RDB:  39
+B0000000.RDB:  39
+B0000006.RDB:  37
+B0000003.RDB:  36
+B0000008.RDB:  35
+B0000011.RDB:  33
+B0000007.RDB:  27
+B0000013.RDB:  21
+N0000011.RDB:  6
+N0000045.RDB:  6
+N0000053.RDB:  5
+W0000021.RDB:  5
+W0000000.RDB:  5
+W0000012.RDB:  5
+W0000016.RDB:  5
+N0000052.RDB:  5
+N0000003.RDB:  4
+N0000060.RDB:  4
+W0000024.RDB:  4
+W0000028.RDB:  4
+W0000003.RDB:  3
+W0000013.RDB:  3
+N0000083.RDB:  3
+N0000076.RDB:  3
+N0000006.RDB:  3
+W0000006.RDB:  3
+W0000027.RDB:  3
+W0000005.RDB:  3
+N0000015.RDB:  3
+N0000065.RDB:  3
+W0000029.RDB:  3
+W0000017.RDB:  3
+W0000026.RDB:  3
+W0000022.RDB:  3
+W0000002.RDB:  3
+N0000054.RDB:  2
+N0000026.RDB:  2
+N0000004.RDB:  2
+N0000043.RDB:  2
+W0000015.RDB:  2
+W0000004.RDB:  2
+N0000017.RDB:  2
+N0000079.RDB:  2
+N0000064.RDB:  2
+N0000029.RDB:  2
+N0000047.RDB:  2
+N0000089.RDB:  2
+M0000007.RDB:  2
+N0000063.RDB:  2
+M0000008.RDB:  2
+N0000074.RDB:  2
+N0000086.RDB:  2
+N0000039.RDB:  2
+N0000042.RDB:  2
+N0000024.RDB:  2
+W0000023.RDB:  2
+N0000019.RDB:  2
+M0000000.RDB:  2
+N0000059.RDB:  2
+W0000025.RDB:  2
+N0000071.RDB:  2
+N0000028.RDB:  2
+N0000000.RDB:  2
+W0000020.RDB:  2
+N0000034.RDB:  2
+N0000014.RDB:  2
+N0000055.RDB:  2
+N0000040.RDB:  2
+W0000008.RDB:  2
+W0000019.RDB:  2
+N0000007.RDB:  2
+N0000041.RDB:  2
+N0000090.RDB:  2
+N0000085.RDB:  1
+N0000088.RDB:  1
+N0000023.RDB:  1
+N0000031.RDB:  1
+N0000067.RDB:  1
+W0000010.RDB:  1
+M0000003.RDB:  1
+N0000081.RDB:  1
+N0000001.RDB:  1
+N0000070.RDB:  1
+N0000056.RDB:  1
+N0000073.RDB:  1
+N0000057.RDB:  1
+N0000066.RDB:  1
+W0000001.RDB:  1
+N0000050.RDB:  1
+N0000046.RDB:  1
+N0000061.RDB:  1
+N0000080.RDB:  1
+N0000038.RDB:  1
+N0000016.RDB:  1
+N0000049.RDB:  1
+N0000021.RDB:  1
+N0000009.RDB:  1
+M0000002.RDB:  1
+N0000077.RDB:  1
+N0000018.RDB:  1
+N0000033.RDB:  1
+W0000014.RDB:  1
+N0000002.RDB:  1
+M0000005.RDB:  1
+N0000069.RDB:  1
+M0000004.RDB:  1
+N0000008.RDB:  1
+W0000009.RDB:  1
+N0000062.RDB:  1
+N0000025.RDB:  1
+N0000078.RDB:  1
+N0000092.RDB:  1
+N0000032.RDB:  1
+N0000030.RDB:  1
+
+END

@@ -1,0 +1,137 @@
+Region: Antiphyllos
+
+Dungeon: Kurpi Cultus
+Type: Coven
+Total Size: 10
+B0000006.RDB,   X:-1, Z:0
+B0000010.RDB,   X:-1, Z:1
+B0000013.RDB,   X:0, Z:-1
+N0000076.RDB,   X:0, Z:0
+N0000062.RDB,   X:0, Z:1
+B0000008.RDB,   X:0, Z:2
+B0000012.RDB,   X:1, Z:-1
+W0000001.RDB,   X:1, Z:0
+B0000005.RDB,   X:1, Z:1
+B0000005.RDB,   X:2, Z:0
+
+Dungeon: The Saurder Burial Ground
+Type: Forgotten Cemetery
+Total Size: 5
+B0000003.RDB,   X:-1, Z:0
+B0000013.RDB,   X:0, Z:-1
+M0000006.RDB,   X:0, Z:0
+B0000012.RDB,   X:0, Z:1
+B0000003.RDB,   X:1, Z:0
+
+Dungeon: The Convent of Dispeus
+Type: Desecrated Temple
+Total Size: 10
+B0000000.RDB,   X:-1, Z:0
+B0000003.RDB,   X:-1, Z:1
+B0000010.RDB,   X:0, Z:-1
+N0000048.RDB,   X:0, Z:0
+N0000057.RDB,   X:0, Z:1
+B0000009.RDB,   X:0, Z:2
+B0000004.RDB,   X:1, Z:0
+W0000018.RDB,   X:1, Z:1
+B0000008.RDB,   X:1, Z:2
+B0000007.RDB,   X:2, Z:1
+
+Dungeon: THe Crypts of Fhiv
+Type: Forgotten Cemetery
+Total Size: 5
+B0000002.RDB,   X:-1, Z:0
+B0000004.RDB,   X:0, Z:-1
+M0000008.RDB,   X:0, Z:0
+B0000000.RDB,   X:0, Z:1
+B0000014.RDB,   X:1, Z:0
+
+Dungeon: The Stronghold of Fhejon
+Type: Orc Stronghold
+Total Size: 13
+B0000010.RDB,   X:-2, Z:0
+B0000005.RDB,   X:-1, Z:-2
+B0000011.RDB,   X:-1, Z:-1
+W0000000.RDB,   X:-1, Z:0
+B0000009.RDB,   X:-1, Z:1
+B0000013.RDB,   X:0, Z:-3
+N0000044.RDB,   X:0, Z:-2
+N0000018.RDB,   X:0, Z:-1
+N0000063.RDB,   X:0, Z:0
+B0000001.RDB,   X:0, Z:1
+B0000002.RDB,   X:1, Z:-2
+B0000014.RDB,   X:1, Z:-1
+B0000009.RDB,   X:1, Z:0
+
+Dungeon: Raulp Laboratory
+Type: Laboratory
+Total Size: 12
+B0000006.RDB,   X:-1, Z:-1
+B0000012.RDB,   X:-1, Z:0
+B0000000.RDB,   X:0, Z:-2
+N0000059.RDB,   X:0, Z:-1
+W0000013.RDB,   X:0, Z:0
+B0000011.RDB,   X:0, Z:1
+B0000009.RDB,   X:1, Z:-1
+N0000091.RDB,   X:1, Z:0
+N0000005.RDB,   X:1, Z:1
+B0000010.RDB,   X:1, Z:2
+B0000000.RDB,   X:2, Z:0
+B0000013.RDB,   X:2, Z:1
+
+Dungeon: The Dhovt Cemetery
+Type: Forgotten Cemetery
+Total Size: 5
+B0000010.RDB,   X:-1, Z:0
+B0000007.RDB,   X:0, Z:-1
+M0000002.RDB,   X:0, Z:0
+B0000014.RDB,   X:0, Z:1
+B0000006.RDB,   X:1, Z:0
+
+Dungeon: The Glircham Graveyard
+Type: Forgotten Cemetery
+Total Size: 5
+B0000012.RDB,   X:-1, Z:0
+B0000014.RDB,   X:0, Z:-1
+M0000006.RDB,   X:0, Z:0
+B0000001.RDB,   X:0, Z:1
+B0000014.RDB,   X:1, Z:0
+
+
+
+Block Count Breakdown For This Region:
+
+B0000010.RDB:  5
+B0000014.RDB:  5
+B0000013.RDB:  4
+B0000012.RDB:  4
+B0000000.RDB:  4
+B0000009.RDB:  4
+B0000006.RDB:  3
+B0000005.RDB:  3
+B0000003.RDB:  3
+B0000008.RDB:  2
+M0000006.RDB:  2
+B0000004.RDB:  2
+B0000007.RDB:  2
+B0000002.RDB:  2
+B0000011.RDB:  2
+B0000001.RDB:  2
+N0000076.RDB:  1
+N0000062.RDB:  1
+W0000001.RDB:  1
+N0000048.RDB:  1
+N0000057.RDB:  1
+W0000018.RDB:  1
+M0000008.RDB:  1
+W0000000.RDB:  1
+N0000044.RDB:  1
+N0000018.RDB:  1
+N0000063.RDB:  1
+N0000059.RDB:  1
+W0000013.RDB:  1
+N0000091.RDB:  1
+N0000005.RDB:  1
+M0000002.RDB:  1
+
+END
