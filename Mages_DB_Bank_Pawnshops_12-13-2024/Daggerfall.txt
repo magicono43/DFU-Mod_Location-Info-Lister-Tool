@@ -1,0 +1,48 @@
+Region: Daggerfall
+
+Location Name: Burgcester
+Type: Hamlet (Medium)
+Building Count: 145
+
+Building Name: The Essential Used Merchandise
+Type: Pawn Shop
+Quality: 6
+
+Building Name: The Mages Guild
+Type: Mages Guildhall
+Quality: 3
+
+Building Name: The Bank of Daggerfall
+Type: Bank
+Quality: 17
+
+Building Name: 
+Type: Dark Brotherhood Guildhall
+Quality: 12
+
+
+
+Location Name: Penwold
+Type: Hamlet (Medium)
+Building Count: 130
+
+Building Name: The Mages Guild
+Type: Mages Guildhall
+Quality: 20
+
+Building Name: 
+Type: Dark Brotherhood Guildhall
+Quality: 14
+
+Building Name: The Bank of Daggerfall
+Type: Bank
+Quality: 13
+
+
+
+
+
+Block Count Breakdown For This Region:
+
+
+END

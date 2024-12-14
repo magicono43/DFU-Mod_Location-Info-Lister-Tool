@@ -1,0 +1,52 @@
+Region: Wayrest
+
+Location Name: Galloing Hamlet
+Type: Hamlet (Medium)
+Building Count: 137
+
+Building Name: The Bank of Wayrest
+Type: Bank
+Quality: 6
+
+Building Name: 
+Type: Dark Brotherhood Guildhall
+Quality: 11
+
+Building Name: The Odd Used Equipment
+Type: Pawn Shop
+Quality: 18
+
+Building Name: The Mages Guild
+Type: Mages Guildhall
+Quality: 17
+
+
+
+Location Name: Blackcroft
+Type: Hamlet (Medium)
+Building Count: 129
+
+Building Name: 
+Type: Dark Brotherhood Guildhall
+Quality: 15
+
+Building Name: First Class Antiquities
+Type: Pawn Shop
+Quality: 15
+
+Building Name: The Mages Guild
+Type: Mages Guildhall
+Quality: 16
+
+Building Name: The Bank of Wayrest
+Type: Bank
+Quality: 2
+
+
+
+
+
+Block Count Breakdown For This Region:
+
+
+END

@@ -1,0 +1,26 @@
+Region: Lainlyn
+
+Location Name: Sedastalah
+Type: Hamlet (Medium)
+Building Count: 142
+
+Building Name: The Mages Guild
+Type: Mages Guildhall
+Quality: 13
+
+Building Name: 
+Type: Dark Brotherhood Guildhall
+Quality: 17
+
+Building Name: The Bank of Lainlyn
+Type: Bank
+Quality: 5
+
+
+
+
+
+Block Count Breakdown For This Region:
+
+
+END

@@ -3,7 +3,7 @@
 // License:         MIT License (http://www.opensource.org/licenses/mit-license.php)
 // Author:          Kirk.O
 // Created On: 	    2/5/2024, 7:30 PM
-// Last Edit:		4/16/2024, 11:40 PM
+// Last Edit:		12/13/2024, 7:40 PM
 // Version:			1.10
 // Special Thanks:  
 // Modifier:
@@ -281,7 +281,7 @@ namespace LocationInfoListerTool
             foreach (var locList in validRegionIndexes)
             {
                 n++;
-                //if (n > 1) // Just for testing.
+                //if (n > 6) // Just for testing.
                 //break;
 
                 regionInfo = DaggerfallUnity.Instance.ContentReader.MapFileReader.GetRegion(locList);
@@ -302,6 +302,9 @@ namespace LocationInfoListerTool
                     DFLocation.LocationExterior city = cityLocation.Exterior;
                     string cityTypeName = GetCityTypeName(regionInfo.MapTable[foundIndices[r]].LocationType);
 
+                    if (cityTypeName == "City (Large)")
+                        continue;
+
                     for (int m = 0; m < city.Buildings.Length; m++)
                     {
                         if (FilterOut(city.Buildings[m].BuildingType, city.Buildings[m].FactionId))
@@ -317,6 +320,25 @@ namespace LocationInfoListerTool
 
                     if (validBuildingsInLocation <= 0)
                         continue;
+
+                    int[] buildingChecklist = { 0, 0, 0, 0 };
+
+                    for (int m = 0; m < city.Buildings.Length; m++)
+                    {
+                        if (FilterOut(city.Buildings[m].BuildingType, city.Buildings[m].FactionId))
+                        {
+                            continue;
+                        }
+                        else
+                        {
+                            if (city.Buildings[m].BuildingType == DFLocation.BuildingTypes.PawnShop) { ++buildingChecklist[0]; }
+                            else if (city.Buildings[m].BuildingType == DFLocation.BuildingTypes.Bank) { ++buildingChecklist[1]; }
+                            else if (city.Buildings[m].BuildingType == DFLocation.BuildingTypes.House2 && city.Buildings[m].FactionId == (int)FactionFile.FactionIDs.The_Dark_Brotherhood) { ++buildingChecklist[2]; }
+                            else if (city.Buildings[m].BuildingType == DFLocation.BuildingTypes.GuildHall && city.Buildings[m].FactionId == (int)FactionFile.FactionIDs.The_Mages_Guild) { ++buildingChecklist[3]; }
+                        }
+                    }
+
+                    if (buildingChecklist[1] <= 0 || buildingChecklist[2] <= 0 || buildingChecklist[3] <= 0) { continue; }
 
                     writer.WriteLine($"Location Name: {cityName}");
                     writer.WriteLine($"Type: {cityTypeName}");
@@ -406,6 +428,9 @@ namespace LocationInfoListerTool
         {
             switch (buildingType)
             {
+                case DFLocation.BuildingTypes.Bank:
+                case DFLocation.BuildingTypes.PawnShop:
+                    return false;
                 case DFLocation.BuildingTypes.House1:
                 case DFLocation.BuildingTypes.House3:
                 case DFLocation.BuildingTypes.House4:
@@ -421,23 +446,26 @@ namespace LocationInfoListerTool
                     return true;
                 case DFLocation.BuildingTypes.Alchemist:
                 case DFLocation.BuildingTypes.Armorer:
-                case DFLocation.BuildingTypes.Bank:
+                //case DFLocation.BuildingTypes.Bank:
                 case DFLocation.BuildingTypes.Bookseller:
                 case DFLocation.BuildingTypes.ClothingStore:
                 case DFLocation.BuildingTypes.FurnitureStore:
                 case DFLocation.BuildingTypes.GemStore:
                 case DFLocation.BuildingTypes.GeneralStore:
                 case DFLocation.BuildingTypes.Library:
-                case DFLocation.BuildingTypes.PawnShop:
+                //case DFLocation.BuildingTypes.PawnShop:
                 case DFLocation.BuildingTypes.WeaponSmith:
                 case DFLocation.BuildingTypes.Tavern:
                 case DFLocation.BuildingTypes.Palace:
-                case DFLocation.BuildingTypes.GuildHall:
+                //case DFLocation.BuildingTypes.GuildHall:
                 case DFLocation.BuildingTypes.Temple:
                     return true;
                 case DFLocation.BuildingTypes.House2:
-                    if (factionID == (int)FactionFile.FactionIDs.The_Thieves_Guild) { return false; }
+                    if (factionID == (int)FactionFile.FactionIDs.The_Thieves_Guild) { return true; }
                     else if (factionID == (int)FactionFile.FactionIDs.The_Dark_Brotherhood) { return false; }
+                    else { return true; }
+                case DFLocation.BuildingTypes.GuildHall:
+                    if (factionID == (int)FactionFile.FactionIDs.The_Mages_Guild) { return false; }
                     else { return true; }
                 default:
                     return false;

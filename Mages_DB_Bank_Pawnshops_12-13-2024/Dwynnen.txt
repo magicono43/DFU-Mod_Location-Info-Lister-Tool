@@ -1,0 +1,56 @@
+Region: Dwynnen
+
+Location Name: Blackmoth
+Type: Hamlet (Medium)
+Building Count: 148
+
+Building Name: Doctor Theodoryan's Pawnshop
+Type: Pawn Shop
+Quality: 16
+
+Building Name: The King's Used Supplies
+Type: Pawn Shop
+Quality: 8
+
+Building Name: The Bank of Dwynnen
+Type: Bank
+Quality: 17
+
+Building Name: The Mages Guild
+Type: Mages Guildhall
+Quality: 3
+
+Building Name: 
+Type: Dark Brotherhood Guildhall
+Quality: 18
+
+
+
+Location Name: Wilderton
+Type: Hamlet (Medium)
+Building Count: 132
+
+Building Name: The Bank of Dwynnen
+Type: Bank
+Quality: 10
+
+Building Name: The Mages Guild
+Type: Mages Guildhall
+Quality: 6
+
+Building Name: The Emperor's Pawnshop
+Type: Pawn Shop
+Quality: 2
+
+Building Name: 
+Type: Dark Brotherhood Guildhall
+Quality: 6
+
+
+
+
+
+Block Count Breakdown For This Region:
+
+
+END

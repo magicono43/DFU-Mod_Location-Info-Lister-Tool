@@ -1,0 +1,30 @@
+Region: Dak'fron
+
+Location Name: Pheonahator
+Type: Hamlet (Medium)
+Building Count: 152
+
+Building Name: 
+Type: Dark Brotherhood Guildhall
+Quality: 7
+
+Building Name: Perard's Quality Used Gear
+Type: Pawn Shop
+Quality: 19
+
+Building Name: The Mages Guild
+Type: Mages Guildhall
+Quality: 4
+
+Building Name: The Bank of Dak'fron
+Type: Bank
+Quality: 13
+
+
+
+
+
+Block Count Breakdown For This Region:
+
+
+END

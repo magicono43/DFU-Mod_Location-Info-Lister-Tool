@@ -1,0 +1,30 @@
+Region: Totambu
+
+Location Name: Umbindax
+Type: Hamlet (Medium)
+Building Count: 128
+
+Building Name: The Mages Guild
+Type: Mages Guildhall
+Quality: 2
+
+Building Name: 
+Type: Dark Brotherhood Guildhall
+Quality: 5
+
+Building Name: The Champion Used Equipment
+Type: Pawn Shop
+Quality: 14
+
+Building Name: The Bank of Totambu
+Type: Bank
+Quality: 19
+
+
+
+
+
+Block Count Breakdown For This Region:
+
+
+END
